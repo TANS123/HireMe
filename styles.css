@@ -1,0 +1,32 @@
+body {
+   background: url("https://thumbs-prod.si-cdn.com/GL2IJgbmK_AmwOdyJSM0TVEBLGw=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/6f/5b/6f5bf6b9-f4a5-4109-9375-e969ccf58e7c/file-20170918-8245-fvelv2.jpg");
+}
+h1 {
+    color: #66014d;
+    font-family: 'Poor Story', cursive;
+    font-size: 50px;
+    background-color: blue;
+}
+h2 {
+    color: #66014d;
+    font-family: 'Spicy Rice', cursive;
+    font-size: 40px;
+     background-color: blue;
+}
+li {
+    color: #4A235A;
+font-family: 'Gloria Hallelujah', cursive;
+font-size: 25px;
+  background-color: blue;
+}
+p {
+    color:#8E44AD;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+     background-color: purple;
+}
+img {
+    border-radius: 90px;
+    opacity: 0.89;
+    border: dashed 15px purple;
+}
